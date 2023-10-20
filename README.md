@@ -1,4 +1,4 @@
 # Teju-demo
 This is my first Git repository
 <br>
-author- tejaswi gavhale
+author- tejaswi-gavhale(apna college)
